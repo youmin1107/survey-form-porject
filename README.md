@@ -1,2 +1,2 @@
-# survey-form-porject
+# survey-form-project
 web development project of youmin 
